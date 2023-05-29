@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@chainsafe/bls": "^7.1.1",
+    "@chainsafe/blst": "^0.2.8",
+    "@chainsafe/ssz": "^0.11.1"
+  },
+  "type": "module"
+}
